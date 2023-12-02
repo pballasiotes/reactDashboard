@@ -1,0 +1,6 @@
+INSTALLATION:
+
+npx create-react-app react-admin
+
+npm i @mui/material @emotion/react @emotion/styled @mui/x-data-grid @mui/icons-material react-router-dom@6 react-pro-sidebar@0.7.1 formik yup @fullcalendar/core @fullcalendar/react @fullcalendar/interaction @fullcalendar/daygrid @fullcalendar/timegrid @fullcalendar/list @nivo/core @nivo/pie @nivo/line @nivo/bar @nivo/geo @babel/plugin-proposal-private-property-in-object
+
